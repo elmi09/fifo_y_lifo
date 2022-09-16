@@ -1,0 +1,11 @@
+C:\Users\elmi0\Desktop\lifo_y_fifo\lifo_y_fifo\obj\Debug\lifo_y_fifo.csproj.AssemblyReference.cache
+C:\Users\elmi0\Desktop\lifo_y_fifo\lifo_y_fifo\obj\Debug\lifo_y_fifo.csproj.SuggestedBindingRedirects.cache
+C:\Users\elmi0\Desktop\lifo_y_fifo\lifo_y_fifo\obj\Debug\lifo_y_fifo.Form1.resources
+C:\Users\elmi0\Desktop\lifo_y_fifo\lifo_y_fifo\obj\Debug\lifo_y_fifo.Properties.Resources.resources
+C:\Users\elmi0\Desktop\lifo_y_fifo\lifo_y_fifo\obj\Debug\lifo_y_fifo.csproj.GenerateResource.cache
+C:\Users\elmi0\Desktop\lifo_y_fifo\lifo_y_fifo\obj\Debug\lifo_y_fifo.csproj.CoreCompileInputs.cache
+C:\Users\elmi0\Desktop\lifo_y_fifo\lifo_y_fifo\bin\Debug\lifo_y_fifo.exe.config
+C:\Users\elmi0\Desktop\lifo_y_fifo\lifo_y_fifo\bin\Debug\lifo_y_fifo.exe
+C:\Users\elmi0\Desktop\lifo_y_fifo\lifo_y_fifo\bin\Debug\lifo_y_fifo.pdb
+C:\Users\elmi0\Desktop\lifo_y_fifo\lifo_y_fifo\obj\Debug\lifo_y_fifo.exe
+C:\Users\elmi0\Desktop\lifo_y_fifo\lifo_y_fifo\obj\Debug\lifo_y_fifo.pdb

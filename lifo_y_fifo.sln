@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lifo_y_fifo", "lifo_y_fifo\lifo_y_fifo.csproj", "{0FC1F10A-8E5E-4487-97F0-D568A26259B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FC1F10A-8E5E-4487-97F0-D568A26259B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FC1F10A-8E5E-4487-97F0-D568A26259B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FC1F10A-8E5E-4487-97F0-D568A26259B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FC1F10A-8E5E-4487-97F0-D568A26259B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {487EFCE1-4BF5-4F30-B879-72F46923E7A7}
+	EndGlobalSection
+EndGlobal
